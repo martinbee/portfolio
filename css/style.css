@@ -420,6 +420,16 @@ nav {
 
 /* 05.WORKS SETTINGS ================================================== */
 
+.portfolio-link {
+  color: #F17C71;
+  border-bottom: none;
+}
+
+.portfolio-link:hover {
+  color: #555;
+  border-bottom: none;
+
+}
 
 
 /* Section */
@@ -1080,6 +1090,7 @@ form {overflow:hidden}
 
     .service .service img {width:100%; }
 
+    #number {text-align: center;}
 }
 
 
